@@ -1,0 +1,11 @@
+{
+  "name": "LoL",
+  "version": "0.0.1",
+  "description": "LoL Analytics",
+  "main": "server.js",
+  "author": "Tahmid",
+  "dependencies": {
+    "express": "~4.7.2",
+    "async": "latest"
+  }
+}
